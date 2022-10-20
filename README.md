@@ -1,3 +1,3 @@
 # sebnemtest
 Study
-newstudy
+newstud
